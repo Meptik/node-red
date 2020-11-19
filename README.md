@@ -1,7 +1,6 @@
-node-red
+File Write Data
 ========
 
-### About
+11.18.2020
 
-This is your project's README.md file. It helps users understand what your
-project does, how to use it and anything else they may need to know.
+A basic NodeRed flow to illustrate how to read and write JSON arrays to local disk. 
